@@ -1,6 +1,6 @@
 # Air-Quality-Index
  
-## Project Phase 1: Data Collection
+## Data Collection
 I have used web scraping for collecting the data
 
 
