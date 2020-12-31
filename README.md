@@ -12,4 +12,3 @@ I have used web scraping for collecting the data
 
 * In this upload I have scrapped the data from url:http://en.tutiempo.net/climate and collected data in Html format.
 
-Inspired by krishnaik youtuber.
